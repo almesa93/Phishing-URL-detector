@@ -10,6 +10,6 @@ It is made in the following way:
 3. After the prediction, the URL and the result will be saved in the database for a quicker request.
 
 Resources:
-http://archive.ics.uci.edu/ml/datasets/Phishing+Websites
-https://data.mendeley.com/datasets/72ptz43s9v/1
-https://www.sciencedirect.com/science/article/pii/S2352340920313202
+- http://archive.ics.uci.edu/ml/datasets/Phishing+Websites
+- https://data.mendeley.com/datasets/72ptz43s9v/1
+- https://www.sciencedirect.com/science/article/pii/S2352340920313202

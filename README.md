@@ -11,3 +11,5 @@ It is made in the following way:
 
 Resources:
 http://archive.ics.uci.edu/ml/datasets/Phishing+Websites
+https://data.mendeley.com/datasets/72ptz43s9v/1
+https://www.sciencedirect.com/science/article/pii/S2352340920313202

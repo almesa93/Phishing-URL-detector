@@ -6,7 +6,7 @@ This is an API that returns if an URL is phishing or not just giving the string 
 It is made in the following way:
 
 1. A MySQL database with more than 11.000 URL for the request.
-2. A ML prediction model which says if an URL direction is phishing or not with an accuracy of 70%.
+2. A ML prediction model which says if an URL direction is phishing or not with an accuracy of 76%.
 3. After the prediction, the URL and the result will be saved in the database for a quicker request.
 
 Resources:
